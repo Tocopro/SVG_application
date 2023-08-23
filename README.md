@@ -5,27 +5,26 @@
 
 ## Table of Content
 
-<ol>
 
-<li>[Description](#description)</li>
 
-<li>[Live Demonstration](#live-recording)</li>
+[Description](#description)
 
-<li>[ScreenShots](#screenshots)</li>
+[Live Demonstration](#live-recording)
 
-<li>[Technologies](#technologies_used)</li>
+[ScreenShots](#screenshots)
 
-<li>[Installation](#installation)</li>
+[Technologies](#technologies_used)
 
-<li>[Credits](#credits)</li>
+[Installation](#installation)
 
-<li>[Usage](#usage)</li>
+[Credits](#credits)
 
-<li>[license](#license)</li>
+[Usage](#usage)
 
-<li>[Questions](#questions)</li>
+[license](#license)
 
-</ol>
+[Questions](#questions)
+
 
 ## Description
 
